@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thayagofr
+- 👀 I’m interested in GO and Java-based projects
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate on back-end projects
+- 📫 How to reach me : thyagofreitas22@gmail.com
